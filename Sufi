@@ -1,0 +1,5 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key= https://keys.c4.aws.redbeemedia.com/v1/fps?e=1702937133&c=e4&t=Q3dtcmVKTWTCGiCgFpKO3UbL7_NZHVEkg3WBIBPZUVyhRnrU-gc7CEQTfstkRtYXd5Pcz0lM1dkIoKxtI9fkkWuZmVunBq1F
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK | FREEVIEW",E4
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd?yo.ac=true&yo.br=false&yo.d.sp=PT8.0S&siteSectionId=watchlive.channel4.com/E4&GUID=297598d2-3679-4143-b31a-9d40dd6f142d
