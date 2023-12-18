@@ -1,0 +1,6 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://infinity-c15.youboranqs01.com/infinity/session/start?timemark=1702935601325&accountCode=channel5&sessionRoot=V_452_7i78512r2ise15bz&sessionId=V_452_7i78512r2ise15bz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK | FREEVIEW",Channel 5
+https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd?CMCD=ot%3Dm%2Csid%3D%227e9ee9e0-d803-497f-b77a-c72441b7c684%22
